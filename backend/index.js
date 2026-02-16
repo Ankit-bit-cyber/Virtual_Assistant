@@ -12,7 +12,7 @@ import cookieParser from "cookie-parser"
 const app = express()
 app.use(cors({
     origin: "http://localhost:5173",
-    credentials: True
+    credentials: true
 }))
 app.use(cors())
 const port=process.env.PORT || 5000
