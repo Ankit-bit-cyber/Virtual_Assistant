@@ -14,4 +14,4 @@ function Card({image}) {
   )
 }
 
-export default C
+export default Card
