@@ -1,9 +1,10 @@
 import React from "react";
 
-function Customize(){
+function Home(){
     return(
         <div>
+
         </div>
     )
 }
-export default Customize
+export default Home;
