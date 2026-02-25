@@ -19,4 +19,4 @@ const uploadOnCloudinary =async (filePath)=>{
 }
 
 
-export default uploadOnCloudina
+export default uploadOnCloudinary
